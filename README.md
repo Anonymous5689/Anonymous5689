@@ -1,4 +1,3 @@
-### Hi there 👋
+## Hi there 👋
 
-
--- It's Anonymous6598, but on Linux 
+It's Anonymous6598, but on Linux 
